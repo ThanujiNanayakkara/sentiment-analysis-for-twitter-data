@@ -1,5 +1,3 @@
-# sentiment-analysis-for-twitter-data
-Sentiment Analysis for Twitter Data
 
 # Twitter Sentiment Analysis using SVM
 This project implements an end-to-end sentiment analysis system for Twitter data, classifying tweets as positive or negative using a Support Vector Machine (SVM).
